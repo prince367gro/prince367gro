@@ -1,4 +1,4 @@
-<div style="background-color: violet";>
+<div bgcolor='voilet'>
 ### Kesa Laga Mera Majak 😄
 <div>
   <img align ="left" src = https://cdn.gro.care/baddc95305fc_1689234472797.gif width="320" height="300">
