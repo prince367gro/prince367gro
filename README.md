@@ -1,6 +1,6 @@
-<div style="background-color:#2e3136">
-## Kesa Laga Mera Majak 😄
 <div>
+## Kesa Laga Mera Majak 😄
+<div  style="background-color:#2e3136">
   <img align ="left" src = https://cdn.gro.care/baddc95305fc_1689234472797.gif width="320" height="300">
   <img align ="right" src =https://undo.io/media/uploads/files/Frustrated_programmer.gif  width="320" height="300">
 </div>
